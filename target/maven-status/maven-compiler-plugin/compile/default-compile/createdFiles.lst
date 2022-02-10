@@ -1,0 +1,7 @@
+com\AppStore\domain\Application.class
+com\AppStore\data\DataConnection.class
+com\AppStore\data\DatabaseInitialize.class
+com\AppStore\domain\AppCategory.class
+com\AppStore\data\AppDao.class
+com\AppStore\domain\Downloads.class
+com\AppStore\servlets\indexPageControllerServlet.class
